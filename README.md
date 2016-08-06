@@ -4,7 +4,9 @@ Android .APK Apps direct search on popular websites.
 How to use:
 
 1 - Create a new directory in you website ( e.g. apk )
+
 2 - Upload all files to the new directory
+
 3 - go to www.yourwebsite.com/apk/index.php
 
 Features:
