@@ -1,0 +1,157 @@
+* {
+	
+		font-family:tahoma;
+
+}
+
+body {
+	
+	padding-right: 0px;
+	padding-right: 0 !important;
+	font-family:tahoma;
+}
+
+
+#btt {
+	
+    text-align:center;
+	
+}
+
+#btt2 {
+	
+	width: 100%;
+	height: 45px;
+	margin-top: 15px;
+	
+}
+
+#lit {
+	
+	font-size:14px;
+}
+
+#tiitle {
+	
+	color:rgb(77, 73, 73);
+	text-align: right;
+	
+}
+
+#mainbt {
+	
+	border-radius: 0;
+	width: 80%;
+	height:49px;
+	margin-top:14px;
+	font-weight:bold;
+	color:#105E4F;
+	
+}
+
+#sitee {
+	
+	
+	
+}
+
+#bann {
+	
+	max-width: 100%;
+    height: auto;
+	background: #1ba57e;
+	color:white;
+	font-size: 11.2px;
+	
+	
+}
+
+#credit {
+	
+	background-color: #105E4F;
+	width: 100%;
+	height: 165px;
+	color: white;
+	text-align: center;
+	line-height: 113px;
+	font-size: 38px;
+	
+}
+
+#footer {
+	
+	margin-top: 34px;
+	background-color: #105E4F;
+	width: 100%;
+	height: 50px;
+	color: white;
+	text-align: center;
+	font-size: 12px;
+	
+	
+}
+
+#tt {
+	
+	line-height: 2px;
+	font-size: 17px;
+	
+}
+
+#ttt {
+	
+
+	color:white;
+	line-height: 50px;
+	
+	
+}
+
+#fbb {
+	
+	color:black;
+	background: white;
+	
+}
+
+#rank {
+	
+	text-align: center;
+	margin-top:12px;
+
+}
+
+#bttn {
+	
+	width:100%;
+	background: #105E4F;
+	border-radius: 0;
+    border:none;	
+}
+
+#eng {
+	
+	margin-left:10px;
+	
+}
+
+#ar {
+	
+	margin-left:10px
+	
+}
+
+#lang {
+	
+	margin-top:15px;
+}
+
+#ln {
+	
+	
+	height: 19px;
+	width: 19px;
+	margin-top: -4px;
+	margin-left: 14px;
+	
+}
